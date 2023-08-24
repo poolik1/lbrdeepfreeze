@@ -1,5 +1,5 @@
 @echo off
-set "URL=URL=https://engage.redbridge.gov.uk/valentines-lido"
+set "URL=https://engage.redbridge.gov.uk/valentines-lido"
 set "ShortcutName=Openwebsite.url"
 set "UserAccount=public_access"
 set "StartupFolder=C:\Users\%UserAccount%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
